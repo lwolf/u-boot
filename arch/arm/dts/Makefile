@@ -474,6 +474,7 @@ dtb-$(CONFIG_MACH_SUN5I) += \
 	sun5i-a13-empire-electronix-d709.dtb \
 	sun5i-a13-empire-electronix-m712.dtb \
 	sun5i-a13-hsg-h702.dtb \
+	sun5i-a13-bmc-srvant-sonny.dtb \
 	sun5i-a13-inet-86vs.dtb \
 	sun5i-a13-inet-98v-rev2.dtb \
 	sun5i-a13-olinuxino.dtb \
